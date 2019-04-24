@@ -1,0 +1,14 @@
+    
+body{
+	background-image: url(https://prezi.com/view/SxIZ1BTP4ADPVx7BGk7e/);
+	text-align: center;
+}
+
+.text-muted{
+	color: blue;
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
